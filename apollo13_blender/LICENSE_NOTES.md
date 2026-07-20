@@ -1,0 +1,2 @@
+# License and source notes
+All generated geometry, shaders, audio, text, and animation in this project are original procedural work. No footage, dialogue, score, production design, or assets from dramatic Apollo 13 adaptations are included. Optional NASA material, if downloaded, must be public-domain/terms-verified and recorded in `docs/ASSET_SOURCES.md`; the default renderer requires no network assets.
