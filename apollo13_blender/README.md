@@ -22,3 +22,6 @@ python3 scripts/assemble_video.py --profile FINAL
 - `docs/`: historical notes, source policy, storyboard, render and recovery guides.
 
 FINAL render demand is intentionally conservative but material: estimate 160 Cycles samples × 1,800 1080p frames; budget roughly 20–80 GPU-hours or considerably more on CPU, plus 30–100 GB for PNG frames depending on scene entropy. Run the five-frame final-quality test before committing compute.
+
+## Google Colab from GitHub
+Push the repository to GitHub, open `colab/Apollo13_Blender_Render.ipynb` in Colab, and use cell 3's Repository setup dialog to paste your HTTPS GitHub clone URL and select the branch. The cell validates the repository and automatically locates either a project-root layout or this repository's `apollo13_blender/` subdirectory.
