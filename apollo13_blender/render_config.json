@@ -1,0 +1,6 @@
+{
+  "PREVIEW": {"resolution": [640, 360], "engine": "BLENDER_EEVEE_NEXT", "samples": 16, "denoise": false, "volumetrics": "low"},
+  "REVIEW": {"resolution": [1280, 720], "engine": "CYCLES", "samples": 48, "denoise": true, "volumetrics": "reduced"},
+  "FINAL": {"resolution": [1920, 1080], "engine": "CYCLES", "samples": 160, "denoise": true, "noise_threshold": 0.01, "volumetrics": "final", "motion_blur": true},
+  "ARCHIVAL_4K": {"resolution": [3840, 2160], "engine": "CYCLES", "samples": 256, "denoise": true, "noise_threshold": 0.008, "volumetrics": "final", "motion_blur": true, "enabled": false}
+}
