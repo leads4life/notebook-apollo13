@@ -1,0 +1,2 @@
+# Shot List
+The 28-shot, 1,800-frame (75.0-second) edit is the authoritative list in `production_manifest.json`. It uses 24 fps with contiguous global frame ranges. Each manifest record specifies lens, 36 mm sensor, aperture, focus target, movement, composition purpose, lighting motivation, transition, assets, and estimated cost. The edit progresses from launch (S01–S04), coast/failure (S05–S09), Mission Control/lifeboat (S10–S14), lunar return (S15–S18), preparation (S19–S23), and reentry/splashdown (S24–S28).

@@ -1,0 +1,2 @@
+# Storyboard
+1. Tower steel frames a Saturn V; frost and vapour establish scale. 2. Ascent gives way to the quiet Earth-receding configuration. 3. A switch, flicker, and non-flaming vacuum vent convey the oxygen-system failure. 4. Warm, anonymous consoles turn urgency into calculation. 5. Aquarius wakes as an improvised filter joins a square component to a circular hose. 6. A small silhouette crosses a grazing-lit Moon, then Earth returns. 7. Damaged hardware is released before entry. 8. Plasma, silence, parachutes, ocean, and a restrained date card resolve the film.

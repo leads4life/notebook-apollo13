@@ -1,0 +1,2 @@
+# Standard-library-only runtime. Optional: Pillow>=10 for contact sheets and image diagnostics.
+Pillow>=10.0
