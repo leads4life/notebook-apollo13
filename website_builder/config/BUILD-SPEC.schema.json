@@ -1,0 +1,9 @@
+{
+  "version": "R3",
+  "modes": ["original", "retrofit", "auto"],
+  "auto_rule": "approved_reference or retrofit_baseline => retrofit; otherwise original",
+  "original_required": ["business", "navigation", "hero", "pages"],
+  "retrofit_required": ["category", "brand", "hero", "intro", "subcategories", "decision", "showcase", "seo", "proof", "redesign", "faq", "proposal"],
+  "production_image_policy": "local assets only",
+  "visual_qa": "rendered-pixel human-eye gate required"
+}
