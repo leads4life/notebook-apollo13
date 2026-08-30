@@ -1,0 +1,9 @@
+{
+  "name": "BUSINESS WEBSITE COMPOSER",
+  "version": "R3",
+  "status": "MAIN",
+  "modes": ["ORIGINAL", "RETROFIT", "AUTO"],
+  "retrofit_parent": "CATEGORY-RETROFIT-LANDING-ENGINE-R2",
+  "original_benchmark": "Cafe Brisa Vieja - Havana",
+  "visual_truth_gate": true
+}
