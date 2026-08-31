@@ -1,0 +1,5 @@
+{
+  "required": ["category","brand","hero","intro","subcategories","decision","showcase","seo","proof","redesign","faq","proposal"],
+  "constraints": {"subcategories": 6, "proof": 3, "faq": 4, "decision_checklist": 4},
+  "image_slots": ["hero","subcategory_1","subcategory_2","subcategory_3","subcategory_4","subcategory_5","subcategory_6","decision","showcase","avatar_optional"]
+}
